@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\OCTxT\\OCTxT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|f:\\projects\\octxt\\octxt\\assets\\discordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\discordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|F:\\Projects\\OCTxT\\OCTxT\\assets\\globalchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\globalchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|F:\\Projects\\OCTxT\\OCTxT\\assets\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECF17D7-EB77-05F8-753C-00B8B86282E4}|PhotonUnityNetworking.Demos.csproj|F:\\Projects\\OCTxT\\OCTxT\\assets\\photon\\photonunitynetworking\\demos\\puncockpit\\scripts\\autonomous ui\\nicknamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ECF17D7-EB77-05F8-753C-00B8B86282E4}|PhotonUnityNetworking.Demos.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\demos\\puncockpit\\scripts\\autonomous ui\\nicknamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|F:\\Projects\\OCTxT\\OCTxT\\assets\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|F:\\Projects\\OCTxT\\OCTxT\\assets\\pickaname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3F314E-0B6F-36AA-7A6E-6D6507CBFD3C}|Assembly-CSharp.csproj|solutionrelative:assets\\pickaname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscordManager.cs",
+              "DocumentMoniker": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\DiscordManager.cs",
+              "RelativeDocumentMoniker": "Assets\\DiscordManager.cs",
+              "ToolTip": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\DiscordManager.cs",
+              "RelativeToolTip": "Assets\\DiscordManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:57:17.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PickAName.cs",
+              "DocumentMoniker": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\PickAName.cs",
+              "RelativeDocumentMoniker": "Assets\\PickAName.cs",
+              "ToolTip": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\PickAName.cs",
+              "RelativeToolTip": "Assets\\PickAName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:10:14.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NickNameField.cs",
+              "DocumentMoniker": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\Photon\\PhotonUnityNetworking\\Demos\\PunCockpit\\Scripts\\Autonomous UI\\NickNameField.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Demos\\PunCockpit\\Scripts\\Autonomous UI\\NickNameField.cs",
+              "ToolTip": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\Photon\\PhotonUnityNetworking\\Demos\\PunCockpit\\Scripts\\Autonomous UI\\NickNameField.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Demos\\PunCockpit\\Scripts\\Autonomous UI\\NickNameField.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:09:28.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\Message.cs",
+              "RelativeDocumentMoniker": "Assets\\Message.cs",
+              "ToolTip": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\Message.cs",
+              "RelativeToolTip": "Assets\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:34:12.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalChat.cs",
+              "DocumentMoniker": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\GlobalChat.cs",
+              "RelativeDocumentMoniker": "Assets\\GlobalChat.cs",
+              "ToolTip": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\GlobalChat.cs",
+              "RelativeToolTip": "Assets\\GlobalChat.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T19:17:19.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppManager.cs",
+              "DocumentMoniker": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\AppManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AppManager.cs",
+              "ToolTip": "F:\\Projects\\OCTxT\\OCTxT\\Assets\\AppManager.cs",
+              "RelativeToolTip": "Assets\\AppManager.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwE4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T00:16:11.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+F:/Projects/OCTxT/OCTxT/.utmp/RelWithDebInfo/3co02p2d/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/Projects/OCTxT/OCTxT/.utmp/RelWithDebInfo/3co02p2d/arm64-v8a/CMakeFiles/rebuild_cache.dir
+F:/Projects/OCTxT/OCTxT/.utmp/RelWithDebInfo/3co02p2d/arm64-v8a/GameActivity/CMakeFiles/game.dir
+F:/Projects/OCTxT/OCTxT/.utmp/RelWithDebInfo/3co02p2d/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+F:/Projects/OCTxT/OCTxT/.utmp/RelWithDebInfo/3co02p2d/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+F:/Projects/OCTxT/OCTxT/.utmp/RelWithDebInfo/3co02p2d/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+F:/Projects/OCTxT/OCTxT/.utmp/RelWithDebInfo/3co02p2d/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+F:/Projects/OCTxT/OCTxT/.utmp/RelWithDebInfo/3co02p2d/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
